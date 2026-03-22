@@ -6,13 +6,11 @@ permalink: /about/
 
 # About
 
-![Profile photo](/assets/img/profile.jpg)
+![Profile photo](/assets/houle.jpeg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am an applied statistician and researcher whose work focuses on prediction, longitudinal data, clinical trials, and headache science. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus.
 
-My work focuses on statistical modeling, clinical trial methodology, and headache research. I am particularly interested in prediction, decision-making under uncertainty, and the development of practical tools that can improve patient care and scientific inference.
 
 ## Links
 
