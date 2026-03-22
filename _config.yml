@@ -1,0 +1,19 @@
+title: Tim Houle
+description: Personal academic website
+theme: minima
+
+header_pages:
+  - about.md
+  - papers.md
+  - talks.md
+  - recent-work.md
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+author:
+  name: Tim Houle
+
+sass:
+  style: compressed
