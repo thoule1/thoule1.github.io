@@ -1,5 +1,4 @@
 title: Timothy T. Houle
-description: Personal academic website
 theme: minima
 
 header_pages:
@@ -11,9 +10,6 @@ header_pages:
 markdown: kramdown
 plugins:
   - jekyll-feed
-
-author:
-  name: Timothy T. Houle, PhD
 
 sass:
   style: compressed
