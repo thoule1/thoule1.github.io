@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-![Profile photo](/assets/houle.jpeg)
+<img src="/assets/houle.jpg" alt="Profile photo" class="profile-photo">
 
 I am an applied statistician and researcher whose work focuses on prediction, longitudinal data, clinical trials, and headache science. 
 
