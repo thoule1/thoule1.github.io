@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<h1 class="site-title">Timothy T. Houle</h1>
-
 <img src="/assets/houle.jpg" alt="Profile photo" class="profile-photo">
 
 **Profiles:**  
