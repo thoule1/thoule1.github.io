@@ -26,11 +26,12 @@ a:hover {
 
 .profile-photo {
   width: 150px;
-  height: 150px;
+  height: auto;
   object-fit: cover;
-  border-radius: 50%;
+
+  border-radius: 8px;   /* remove circle, slight rounding */
   display: block;
-  margin: 0 auto 1.2rem auto;
+  margin: 0 0 1rem 0;   /* left aligned with spacing below */
 }
 
 .site-title {
