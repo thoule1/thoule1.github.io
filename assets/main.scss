@@ -55,3 +55,10 @@ a:hover {
 .page-heading {
   display: none;
 }
+
+.post-title,
+.page-heading,
+h1.post-title,
+h1.page-heading {
+  display: none !important;
+}
