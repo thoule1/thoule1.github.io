@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 <img src="/assets/houle.jpg" alt="Profile photo" class="profile-photo">
