@@ -62,3 +62,54 @@ h1.post-title,
 h1.page-heading {
   display: none !important;
 }
+
+.talk-grid {
+
+  .pdf-thumb {
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #f8f8f8;
+  }
+
+  .pdf-thumb iframe {
+    width: 1000px;
+    height: 1400px;
+    transform: scale(0.25);
+    transform-origin: top left;
+    border: none;
+    pointer-events: none;
+  }
+
+  @media (max-width: 768px) {
+
+    .pdf-thumb {
+      height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(180deg, #f8f8f8, #ececec);
+      position: relative;
+    }
+
+    .pdf-thumb iframe {
+      display: none;
+    }
+
+    .pdf-thumb::before {
+      content: "📄";
+      font-size: 2rem;
+    }
+
+    .pdf-thumb::after {
+      content: "PDF Preview";
+      position: absolute;
+      bottom: 10px;
+      font-size: 0.85rem;
+      color: #555;
+      font-weight: 600;
+    }
+  }
+}
