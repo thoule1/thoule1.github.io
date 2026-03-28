@@ -2,7 +2,7 @@ title: Timothy T. Houle
 theme: minima
 
 header_pages:
-  - about.md
+  - index.md
   - papers.md
   - talks.md
   - recent-work.md
