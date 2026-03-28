@@ -6,23 +6,13 @@ permalink: /talks/
 
 # Talks
 
-## 2026
+The following are some sor my favorite talks.
 
-### Title of Invited Talk
-**Institution or Conference**  
-Month Day, 2026  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-[Slides](#)
+<iframe 
+  src="/assets/talks/Anesthesiology Primer.pdf" 
+  width="100%" 
+  height="600px"
+  style="border:1px solid #ddd; border-radius:8px;">
+</iframe>
 
-### Title of Workshop Presentation
-**Conference Name**  
-Month Day, 2026  
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-[Slides](#)
-
-## 2025
-
-### Title of Research Seminar
-**Department or Center Name**  
-Month Day, 2025  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+[Download PDF](/assets/talks/Anesthesiology-Primer.pdf)
