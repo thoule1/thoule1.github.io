@@ -6,29 +6,54 @@ permalink: /papers/
 
 # Papers
 
-Below are selected publications and manuscripts.
+This page highlights selected work in headache research, prediction modeling, Bayesian methods, and clinical trials.
 
-## Selected Publications
+---
 
-### Paper Title One
-**Authors:** Lorem Ipsum, Dolor Sit, Tim Houle  
-**Journal:** Journal of Placeholder Results, 2025  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-[PDF](#) | [PubMed](#) | [DOI](#)
+## Selected Work
 
-### Paper Title Two
-**Authors:** Tim Houle, Amet Consectetur  
-**Journal:** Annals of Example Research, 2024  
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-[PDF](#) | [PubMed](#) | [DOI](#)
+### Forecasting Short-Term Headache Risk Using Longitudinal Data
+This work develops probabilistic models for predicting near-term migraine risk using repeated-measures diary data, emphasizing individualized risk estimation.
 
-### Paper Title Three
-**Authors:** Adipiscing Elit, Tim Houle  
-**Journal:** Statistical Methods Letters, 2023  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.  
-[PDF](#) | [PubMed](#) | [DOI](#)
+[PubMed](#) · [PDF](#)
 
-## Working Papers
+---
 
-### Working Paper Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. This section can highlight ongoing work, preprints, or manuscripts under review.
+### Bayesian Updating for Individual-Level Prediction
+This paper introduces a framework for dynamically updating individual risk predictions using Bayesian methods, improving both calibration and personalization over time.
+
+[PubMed](#) · [PDF](#)
+
+---
+
+### Surprisal-Based Modeling of Headache Triggers
+This work applies information-theoretic concepts to quantify the “unexpectedness” of exposures and their association with near-term headache risk.
+
+[PubMed](#) · [PDF](#)
+
+---
+
+### External Validation of a Headache Prediction Model
+This study evaluates model performance in an independent cohort, highlighting challenges in calibration and generalizability in clinical prediction.
+
+[PubMed](#) · [PDF](#)
+
+---
+
+### Bayesian Analysis of a Factorial Crossover Trial
+This work demonstrates the use of Bayesian models to analyze complex crossover designs with limited sample sizes and multiple interacting factors.
+
+[PubMed](#) · [PDF](#)
+
+---
+
+### Methods for Longitudinal and Hierarchical Clinical Data
+This work contributes to statistical methodology for analyzing repeated-measures data, including mixed-effects models and prediction frameworks.
+
+[PubMed](#) · [PDF](#)
+
+---
+
+## Full Publication List
+
+<script src="https://bibbase.org/show?bib=https://thoule1.github.io/assets/papers.bib"></script>
