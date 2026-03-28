@@ -8,11 +8,16 @@ permalink: /talks/
 
 The following are some sor my favorite talks.
 
-<iframe 
-  src="/assets/talks/Anesthesiology Primer.pdf" 
-  width="100%" 
-  height="600px"
-  style="border:1px solid #ddd; border-radius:8px;">
-</iframe>
+<div class="talk-card">
+  <a href="/assets/talks/Anesthesiology-Primer.pdf" target="_blank">
+    <div class="pdf-thumb">
+      <iframe src="/assets/talks/Anesthesiology-Primer.pdf#page=1"></iframe>
+    </div>
+  </a>
+  <div class="talk-info">
+    <strong>Anesthesiology Primer</strong><br>
+    <a href="/assets/talks/Anesthesiology-Primer.pdf">Open PDF</a>
+  </div>
+</div>
 
 [Download PDF](/assets/talks/Anesthesiology-Primer.pdf)
