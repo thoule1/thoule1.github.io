@@ -62,3 +62,26 @@ h1.post-title,
 h1.page-heading {
   display: none !important;
 }
+
+.talk-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2.25rem;
+  margin-top: 1.5rem;
+}
+
+.talk-card {
+  padding: 1.2rem;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: white;
+}
+
+.pdf-thumb {
+  margin-bottom: 0.75rem;
+  height: 200px;
+}
+
+.talk-card {
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
