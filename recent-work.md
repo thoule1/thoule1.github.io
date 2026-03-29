@@ -4,7 +4,7 @@ title: Recent Work
 permalink: /recent-work/
 ---
 
-This page highlights recent projects and papers.
+# Recent Work
 
 <div class="recent-work-grid">
 
