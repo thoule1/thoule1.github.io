@@ -4,8 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
-# Talks
-
 ## The following are a few of my favorite talks (arranged alphabetically).
 
 <div class="talk-grid">
