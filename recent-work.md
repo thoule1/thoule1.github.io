@@ -10,7 +10,7 @@ This page highlights recent projects and papers.
 
   <div class="work-card">
     <img
-      src="{{ '/assets/recent-work/surprisal-figure1.jpg' | relative_url }}"
+      src="{{ '/assets/surprisal-figure1.jpg' | relative_url }}"
       alt="Figure from Information-Theoretic Trigger Surprisal and Future Headache Activity"
       class="work-thumb"
     >
