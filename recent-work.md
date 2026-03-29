@@ -4,35 +4,37 @@ title: Recent Work
 permalink: /recent-work/
 ---
 
-# Recent Work
+This page highlights recent projects and papers.
 
-## Project One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<div class="recent-work-grid">
 
-- Ongoing focus: placeholder text
-- Methodological theme: placeholder text
-- Status: in progress
+  <div class="work-card">
+    <img
+      src="{{ '/assets/recent-work/surprisal-figure1.jpg' | relative_url }}"
+      alt="Figure from Information-Theoretic Trigger Surprisal and Future Headache Activity"
+      class="work-thumb"
+    >
 
-[Learn more](#)
+    <div class="work-body">
+      <h3>Information-Theoretic Trigger Surprisal and Future Headache Activity</h3>
+
+      <p class="work-summary">
+        This study by Dana Turner suggests that migraine risk may be shaped less by any single trigger than by how
+        unexpected or atypical a person’s recent experiences are relative to their own usual pattern.
+        The practical implication is a move away from static trigger lists and toward dynamic,
+        individualized forecasting tools that detect disruption in daily routine and context.
+      </p>
+
+      <p class="work-links">
+        <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841237" target="_blank" rel="noopener noreferrer">Full paper</a>
+        |
+        <a href="https://www.newsweek.com/scientists-find-surprising-new-trigger-migraines-11035095" target="_blank" rel="noopener noreferrer">News coverage</a>
+      </p>
+    </div>
+  </div>
+
+</div>
 
 ---
 
-## Project Two
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-- Ongoing focus: placeholder text
-- Application area: placeholder text
-- Status: manuscript in preparation
-
-[Learn more](#)
-
----
-
-## Project Three
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- Ongoing focus: placeholder text
-- Collaboration: placeholder text
-- Status: active
-
-[Learn more](#)
