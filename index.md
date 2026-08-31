@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-<img src="/assets/IMG_7034.jpeg" alt="Profile photo" class="profile-photo">
+<img src="/assets/Houle2.jpeg" alt="Profile photo" class="profile-photo">
 
 **Profiles:**  
 [Google Scholar](https://scholar.google.com/citations?user=8dBdSyAAAAAJ&hl=en&oi=ao) · 
